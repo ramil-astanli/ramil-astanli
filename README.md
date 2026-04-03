@@ -26,9 +26,18 @@ I am a passionate Backend Developer focused on building secure, scalable systems
 
 ### 📂 Featured Project
 **[Digital Wallet Management System]**
-A robust backend system for managing multi-currency digital wallets, featuring secure transactions and balance management. Built with Spring Boot, PostgreSQL, and Docker.
+- **Description:** A robust backend system for managing multi-currency digital wallets, featuring secure transactions and balance management.
+- **Stack:** Java 17, Spring Boot, PostgreSQL, Docker, Redis.
+- **Why it matters:** Focuses on financial data integrity and secure API design.
 
+---
+
+### 🔭 Current Focus
+I am currently deepening my knowledge in:
+- **Software Architecture:** Microservices and System Design.
+  
 ---
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramil-astanli-850a012b4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramilastanli19@gmail.com)
